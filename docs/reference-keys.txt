@@ -5,7 +5,7 @@ thm:tri
 about-shen-lab
 how-to-find-us
 contact-us
-hello-bookdown
+linux
 a-section
 cross
 chapters-and-sub-chapters
@@ -22,3 +22,11 @@ sharing-your-book
 publishing
 pages
 metadata-for-sharing
+url-your-book-url-like-httpsbookdown.orgyihuibookdown
+linux-1
+a-section-1
+git
+r
+python
+wet-experiments
+omics
