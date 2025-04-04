@@ -8,48 +8,32 @@ bibliography: [book.bib, packages.bib]
 # url: your book url like https://bookdown.org/yihui/bookdown
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
-  This is a minimal example of using the bookdown package to write a book.
-  The HTML output format for this example is bookdown::gitbook,
-  set in the _output.yml file.
+  This is the handbook for all the members in Shen Lab at NTU Singapore.
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: jaspershen-lab/shen-lab-handbook
 ---
 
-# About
+# About Shen Lab
 
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports; for example, a math equation $a^2 + b^2 = c^2$.
+Shen lab is a research group in the Lee Kong Chian School of Medicine at Nanyang Technological University, Singapore. We are interested in method development for multi-omics and their applications in precision medicine.
 
-## Usage 
+![](images/shen_lab_logo8.png)
 
-Each **bookdown** chapter is an .Rmd file, and each .Rmd file can contain one (and only one) chapter. A chapter *must* start with a first-level heading: `# A good chapter`, and can contain one (and only one) first-level heading.
+## How to find us? 
 
-Use second-level and higher headings within chapters like: `## A short section` or `### An even shorter section`.
+* Shen lab website: <https://shen-lab.org>
 
-The `index.Rmd` file is required, and is also your first book chapter. It will be the homepage when you render the book.
+* Shen lab GitHub: https://github.com/jaspershen-lab
 
-## Render book
+* Shen lab Twitter: https://x.com/xiaotaoshen1990
 
-You can render the HTML version of this example book without changing anything:
+## Contact us
 
-1. Find the **Build** pane in the RStudio IDE, and
+* Email: xiaotao.shen@ntu.edu.sg
 
-1. Click on **Build Book**, then select your output format, or select "All formats" if you'd like to use multiple formats from the same book source files.
+* WeChat: [jaspershen1990](https://jaspershen.github.io/image/wechat_QR.jpg)
 
-Or build the book from the R console:
-
-```{r, eval=FALSE}
-bookdown::render_book()
-```
-
-To render this example to PDF as a `bookdown::pdf_book`, you'll need to install XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.org/tinytex/>.
-
-## Preview book
-
-As you work, you may start a local server to live preview this HTML book. This preview will update as you edit the book when you save individual .Rmd files. You can start the server in a work session by using the RStudio add-in "Preview book", or from the R console:
-
-```{r eval=FALSE}
-bookdown::serve_book()
-```
+* Address: 59 Nanyang Dr, Singapore, Singapore 636921
 
 
 ```{r include=FALSE}
